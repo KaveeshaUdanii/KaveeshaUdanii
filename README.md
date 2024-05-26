@@ -37,18 +37,16 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 </p></br>
 
-
-<h3 align="center">Mostly Used Languages</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshaudanii&layout=compact)
-
-
-
 <hr size="1px"/>
 
 
 <h3 align="center">Stars</h3>
 <p align="center">&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaveeshaUdanii&show_icons=true&locale=en&theme=tokyonight" alt="KaveeshaUdanii" /></p>
+
+
+<h3 align="center">Mostly Used Languages</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshaudanii&layout=compact)
 
 <hr size="1px"/>
 

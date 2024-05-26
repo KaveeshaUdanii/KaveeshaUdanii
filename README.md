@@ -43,11 +43,6 @@
 <h3 align="center">Stars</h3>
 <p align="center">&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaveeshaUdanii&show_icons=true&locale=en&theme=tokyonight" alt="KaveeshaUdanii" /></p>
 
-
-<h3 align="center">Mostly Used Languages</h3>
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshaudanii&layout=compact)](https://github.com/kaveeshaudanii/github-readme-stats)
-</p>
 <hr size="1px"/>
 
 

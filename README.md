@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Flutter and dart**
 
 - 📫 How to reach me **kaveeshaudani08@gmail.com**
-- 📄 Know about my experiences **https://www.linkedin.com/in/kaveesha-udani-bb83552bb**
+
 </br></br>
 <hr size="1px"/>
 

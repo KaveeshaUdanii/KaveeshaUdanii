@@ -17,7 +17,7 @@
 </p>
 
 
-
+![[GitHub repo stats]](https://github-readme-stats.vercel.app/api?username=KaveeshaUdani&language=python)
 <hr size="1px"/>
 
 

@@ -41,12 +41,16 @@
 
 <hr size="1px"/>
 
-
-<h3>Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaveeshaUdanii&show_icons=true&locale=en&theme=tokyonight" alt="KaveeshaUdanii" /></p>
-
-<h3>Most Used Languages</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaUdanii&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+        <h3>Stars</h3>
+        <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaveeshaUdanii&show_icons=true&locale=en&theme=tokyonight" alt="KaveeshaUdanii" /></p>
+    </div>
+    <div style="flex: 1;">
+        <h3>Most Used Languages</h3>
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaUdanii&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
+    </div>
+</div>
 
 <hr size="1px"/>
 

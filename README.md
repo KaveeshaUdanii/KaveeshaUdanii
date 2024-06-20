@@ -41,7 +41,7 @@
 
 <hr size="1px"/>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
     <div style="flex: 1;">
         <h3>Stars</h3>
         <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaveeshaUdanii&show_icons=true&locale=en&theme=tokyonight" alt="KaveeshaUdanii" /></p>
@@ -51,6 +51,7 @@
         <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaUdanii&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
     </div>
 </div>
+
 
 <hr size="1px"/>
 

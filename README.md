@@ -42,11 +42,11 @@
 <hr size="1px"/>
 
 
-<h3 align="center">Stars</h3>
+<h3>Stars</h3>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaveeshaUdanii&show_icons=true&locale=en&theme=tokyonight" alt="KaveeshaUdanii" /></p>
 
-<h3 align="center">Most Used Languages</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaUdanii&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
+<h3>Most Used Languages</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaUdanii&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
 
 <hr size="1px"/>
 

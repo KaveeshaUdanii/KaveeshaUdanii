@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m an Undergraduate at **Cardiff Metropolitan University- UK and University of Moratuwa**
-- 🌱 I’m currently learning **Flutter and dart**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **kaveeshaudani08@gmail.com**
 

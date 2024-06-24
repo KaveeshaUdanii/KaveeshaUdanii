@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m an Undergraduate at **Cardiff Metropolitan University- UK and University of Moratuwa**
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **kaveeshaudani08@gmail.com**
 
